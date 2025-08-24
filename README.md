@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hi, I'm Alaeddin Bahrouni
 
-<!--
-**Alaeddin-B/Alaeddin-B** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Computer Science Student at FH Aachen**  
+Aspiring Machine Learning Engineer / Data Scientist
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Top Skills
+- Java, Python, C/C++
+- Databases
+- Web Technologies
+- Data Science & Machine Learning
+
+## 🧑‍💻 Favorite Projects
+- **Neural-Network-Playground**  
+  Simple Python implementations of Perceptron and Neural Network for MNIST digit recognition. Educational code demonstrating machine learning fundamentals.
+- **Wumpus-World**  
+  AI agent navigating Wumpus World using logical KBs (CNF & Horn clauses).
+- **NYC-Public-School-SAT-Analysis**  
+  SAT performance analysis for NYC public schools using Python & pandas (Jupyter notebook).
+
+## 🎮 Interests & Hobbies
+Gaming | Gym Training | Football | Coding | Reading
+
+## 🌐 Social Links
+- [LinkedIn](https://www.linkedin.com/in/alaeddin-bahrouni/)
+
+---
+
+> "You miss 100% of the chances you don't take"
