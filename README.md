@@ -1,30 +1,41 @@
 # 👋 Hi, I'm Alaeddin Bahrouni
 
 **Computer Science Student at FH Aachen**  
-Aspiring Machine Learning Engineer / Data Scientist
+Aspiring Machine Learning Engineer & Data Scientist
 
 ---
 
 ## 🚀 Top Skills
-- Java, Python, C/C++
-- Databases
-- Web Technologies
-- Data Science & Machine Learning
-
-## 🧑‍💻 Favorite Projects
-- **Neural-Network-Playground**  
-  Simple Python implementations of Perceptron and Neural Network for MNIST digit recognition. Educational code demonstrating machine learning fundamentals.
-- **Wumpus-World**  
-  AI agent navigating Wumpus World using logical KBs (CNF & Horn clauses).
-- **NYC-Public-School-SAT-Analysis**  
-  SAT performance analysis for NYC public schools using Python & pandas (Jupyter notebook).
-
-## 🎮 Interests & Hobbies
-Gaming | Gym Training | Football | Coding | Reading
-
-## 🌐 Social Links
-- [LinkedIn](https://www.linkedin.com/in/alaeddin-bahrouni/)
+- **Machine Learning & AI:** Model development, supervised & unsupervised learning, neural networks, scikit-learn
+- **Data Science:** Data analysis, feature engineering, data visualization (Matplotlib, Seaborn), pandas, NumPy, statistics
+- **MLOps & Deployment:** End-to-end ML workflows, experiment tracking, model deployment, CI/CD for ML projects
+- **Programming Languages:** Python, Java, C/C++
+- **Databases & Data Engineering:** SQL, data wrangling, ETL, working with large datasets
+- **Web Technologies:** REST APIs, Flask, basic web app development
 
 ---
 
-> "You miss 100% of the chances you don't take"
+## 🏆 Featured Projects
+
+- [**German Energy Price Forecasting (MLOps)**](https://github.com/Alaeddin-B/german-energy-price-forecasting-mlops)  
+  End-to-end machine learning workflow for forecasting energy prices in Germany using state-of-the-art MLOps practices.
+- [**Movie Rental Durations Predictor**](https://github.com/Alaeddin-B/Movie-Rental-Durations-Predictor)  
+  Predictive modeling and EDA for movie rental durations with Python.
+- [**Clustering Antarctic Penguin Species**](https://github.com/Alaeddin-B/Clusterin-Antarctic-Penguin-Species)  
+  Data science project on species clustering using real-world ecological data.
+
+---
+
+## 🎮 Interests & Hobbies
+
+Gaming 🎮 | Gym Training 🏋️ | Football ⚽ | Coding 💻 | Reading 📚
+
+---
+
+## 🌐 Find me online
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/alaeddin-bahrouni/)
+
+---
+
+> "You miss 100% of the chances you don't take."
